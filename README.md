@@ -5,7 +5,7 @@ Here is a bug,I have post it on [stackoverFlow.com](http://stackoverflow.com/que
 
 **DataTrigger can't Set the MessageTemplate DepencyProperty.**
 
-I found
+I found Some reason from [here](http://wpftutorial.net/templates.html)
 
 >#Triggers
 
