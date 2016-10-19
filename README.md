@@ -26,3 +26,8 @@ I found Some reason from [here](http://wpftutorial.net/templates.html)
 - [WPF Adorners Part 4 – Simple and Powerful System for Using Adorners](http://www.nbdtech.com/Blog/archive/2010/07/12/wpf-adorners-part-4-ndash-simple-and-powerful-system-for.aspx)
 - [BusyIndicator](https://wpftoolkit.codeplex.com/SourceControl/latest#Main/Source/ExtendedWPFToolkitSolution/Src/Xceed.Wpf.Toolkit/BusyIndicator/Implementation/BusyIndicator.cs)
 - [Generic DataTemplateSelector](https://ovpwp.wordpress.com/2009/01/22/generic-datatemplateselector/)
+
+
+##Solve the Problem
+[Dependency Property Value Precedence](https://msdn.microsoft.com/en-us/library/ms743230(v=vs.110).aspx)
+
